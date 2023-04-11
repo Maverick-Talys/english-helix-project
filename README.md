@@ -63,20 +63,12 @@ limited to being local. It has to have the capacity to grow.
 
 ## Helix Project Marketing Speech & project Summary 
 
-### The tenet of DNA storage : 
-
 Imagine for a moment that you could travel back in time, meet your ancestors, and experience their memories. 
 Imagine that all the stories your learn at history school books, watched at cinemas, or listened by your great grandparents, can be relived.
-
-![image](https://user-images.githubusercontent.com/53010854/231216492-03bfaf46-18f1-4b01-8edf-dd880d746dbb.png)
-
 
 What if I told you that this is not a distant fantasy, but a reality within your grasp? 
 Today, our team is proud to present to you : Helix.
 A groundbreaking product from Apex Technologies, that will revolutionize the way we connect with our past.
-
-![image](https://user-images.githubusercontent.com/53010854/231216990-e84ed040-891d-464e-ae23-61a29120d47e.png)
-
 
 Picture this: you're sitting comfortably in your living room, wearing a state-of-the-art virtual reality headset. You launch the Helix app, and suddenly, you're transported to a different time and place. You see the world through the eyes of your great-grandfather, as he takes his first steps in a new land. You feel the love between your great-grandparents as they share their first dance. 
 Or you relive the memories of a soldier telling stories with his comrades, over hot coffee in cold trenches on a moonlit winters night, during the First World War.
@@ -105,7 +97,7 @@ We are confident that Helix, brought to you by Apex Technologies, will captivate
 
 ## Helix project technology behind the scenes : 
 
-### DNA Storage
+### The tenet of DNA storage : 
 
 DNA, or deoxyribonucleic acid, is the blueprint of life, containing all the genetic information required for the growth, development, and reproduction of an organism. It consists of long chains of nucleotides, which are the building blocks of DNA, and can be represented by four letters: A, T, C, and G. These letters stand for the four nucleotide bases: adenine, thymine, cytosine, and guanine. DNA's double helix structure is formed by pairs of these bases connecting together, with A always pairing with T, and C with G.
 
@@ -130,3 +122,23 @@ By harnessing the power of DNA data storage, Hélix not only offers an unprecede
 
 ![image](https://user-images.githubusercontent.com/53010854/231211059-f9a194a2-58e9-4485-8031-5867b1e6b9db.png)
 ![image](https://user-images.githubusercontent.com/53010854/231211234-b3b7fb8e-e2ce-4dbe-a8ac-b792cc1cb704.png)
+
+### Memories archive recovery (DNA sequences) : 
+
+Now, let's delve into the intricacies of how Apex Technologies' laboratories can retrieve and sequence memories from the DNA data, allowing users to relive the experiences of their ancestors.
+
+The process begins with the DNA samples provided by the user, containing the genetic information of both the user and their ancestors. Our scientists at Apex Technologies' laboratories start by extracting the DNA from the samples and isolating specific segments that hold ancestral memory data.
+
+These segments, rich in epigenetic markers, are meticulously analyzed to reveal patterns and associations with specific memories and experiences. Epigenetics is the study of changes in gene expression that do not involve alterations to the underlying DNA sequence. These changes can be influenced by various factors such as environmental exposure, stress, or diet, and can be passed down through generations.
+
+To ensure the highest level of accuracy and precision in deciphering these complex patterns, our scientists are aided by a powerful artificial intelligence (AI) system named : I.S.A.C. (Intelligent System Analytic Computer). This AI, specifically designed for Apex Technologies, has been trained on vast amounts of genetic and epigenetic data, enabling it to recognize and interpret the subtle variations in DNA sequences that correspond to different memories.
+
+Once the AI has identified the relevant memory-associated patterns in the DNA, it proceeds to reconstruct the memories in a digital format. This involves translating the genetic data into a series of binary codes that represent images, sounds, and other sensory information. The AI then compiles these codes into a coherent narrative, effectively recreating the memory as a virtual experience.
+
+These reconstructed memories are then synchronized and uploaded to the user's account on the Aquila app. When the user dons the virtual reality headset and launches the app, they can access and immerse themselves in the vivid, lifelike memories of their ancestors.
+
+In summary, the process employed by Apex Technologies combines cutting-edge genetic analysis, epigenetic research, and advanced artificial intelligence to unlock the hidden memories within our DNA. By reconstructing and presenting these memories in a virtual reality format, Hélix offers users an unparalleled opportunity to explore their ancestral past and forge a deeper connection with their family history. The possibilities are boundless as we continue to innovate and push the boundaries of science and technology.
+
+![image](https://user-images.githubusercontent.com/53010854/231222413-fca8ee5a-1c15-43c2-bfac-7b6420b99f0b.png)
+
+In summary, the process employed by Apex Technologies combines cutting-edge genetic analysis, epigenetic research, and advanced artificial intelligence to unlock the hidden memories within our DNA. By reconstructing and presenting these memories in a virtual reality format, Hélix offers users an unparalleled opportunity to explore their ancestral past and forge a deeper connection with their family history. The possibilities are boundless as we continue to innovate and push the boundaries of science and technology.
