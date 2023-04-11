@@ -145,30 +145,34 @@ In summary, the process employed by Apex Technologies combines cutting-edge gene
 
 ## Business Model : 
 
-nitial DNA Kit:
+- Initial DNA Kit:
 
 The user purchases the DNA kit for €150, which covers the cost of the kit itself and contributes to the expenses associated with the initial analysis of the DNA sample.
-First Four Months of Analysis:
+
+- First Four Months of Analysis:
 
 During this critical period, the user pays a €50 monthly subscription fee, totaling €200 for the first four months. This fee supports the intensive work required by our scientists and AI to analyze the user's unique DNA sample and establish a solid genomic foundation. As the analysis for each individual is highly specific and requires a combination of techniques, this initial phase is more expensive.
-Post-analysis Subscription:
+
+- Post-analysis Subscription:
 
 After the first four months, the user transitions to a reduced monthly subscription fee of €30. This lower rate reflects the reduced costs associated with generating additional genetic memories for the user, as a solid genomic foundation has already been established. Every month, the user receives 2 hours of ancestral memories.
-Revenue and Margin Projections:
 
-Assume Apex Technologies acquires 10,000 users in the first year.
-Total first-year revenue per user: €590
-Total first-year revenue: €5,900,000 (10,000 users x €590)
-To achieve a minimum 50% margin during the first year, Apex Technologies must optimize its costs and revenue streams. Here's a breakdown of the potential first-year costs per user:
+- Revenue and Margin Projections:
 
-DNA Kit production: €50
-Initial 4-month analysis subscription: €100
-Post-analysis monthly subscription (8 months): €120
-Total first-year costs per user: €270
-Total first-year costs: €2,700,000 (10,000 users x €270)
+  - Assume Apex Technologies acquires 10,000 users in the first year.
+  - Total first-year revenue per user: €590
+  - Total first-year revenue: €5,900,000 (10,000 users x €590)
+  - To achieve a minimum 50% margin during the first year, Apex Technologies must optimize its costs and revenue streams. Here's a breakdown of the potential first-year costs per user:
+
+- DNA Kit production: €50
+  - Initial 4-month analysis subscription: €100
+  - Post-analysis monthly subscription (8 months): €120
+  - Total first-year costs per user: €270
+  - Total first-year costs: €2,700,000 (10,000 users x €270)
 With these figures, Apex Technologies achieves a 54% margin in the first year, resulting in a profit of €3,200,000 (€5,900,000 revenue - €2,700,000 costs).
 
-Exponential Growth Potential:
+- Exponential Growth Potential:
+
 As Apex Technologies continues to expand its user base and collect more genetic data from individuals worldwide, the cost of generating genetic memories will decrease. By the third year, we project a reduction in costs per user by 30%, increasing the margin to 65% and resulting in a profit of €5,720,000 with 20,000 users.
 
 In summary, Apex Technologies' Hélix project presents a compelling business model with an impressive 54% margin during the first year and exponential growth potential in the years to come. By leveraging the innovative Hélix technology and capturing a growing market, investors have the opportunity to be part of a game-changing venture with significant returns on their investment.
