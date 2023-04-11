@@ -87,10 +87,24 @@ We are confident that Helix, brought to you by Apex Technologies, will captivate
 
 DNA, or deoxyribonucleic acid, is the blueprint of life, containing all the genetic information required for the growth, development, and reproduction of an organism. It consists of long chains of nucleotides, which are the building blocks of DNA, and can be represented by four letters: A, T, C, and G. These letters stand for the four nucleotide bases: adenine, thymine, cytosine, and guanine. DNA's double helix structure is formed by pairs of these bases connecting together, with A always pairing with T, and C with G.
 
+![image](https://user-images.githubusercontent.com/53010854/231210699-23109a23-e23a-47b7-86e4-a868d33b01ec.png)
+
+
 Now, let's consider binary data. In computing, binary code is a system of representing information using only two symbols: 0 and 1. These binary digits, or bits, are the basic units of data storage and communication in digital computing systems.
+
+![image](https://user-images.githubusercontent.com/53010854/231210828-7cda5475-038a-44fc-86cc-0d9550a5fc62.png)
+
 
 The concept of storing binary data within DNA involves translating the 0s and 1s of binary code into the A, T, C, and G of DNA sequences. For example, we could assign A and C to represent 0, while T and G represent 1. By synthesizing artificial DNA strands with specific sequences, we can encode digital data into a biological format.
 
-In the context of the Hélix project, we utilize this innovative data storage technique to encode the memories of your ancestors within your genetic material. Our team of experts at Apex Technologies has developed a proprietary method to decipher the binary-encoded data stored within the DNA sequences. This enables us to reconstruct the memories and experiences of your ancestors, which can then be accessed and experienced through the Aquila app and our virtual reality headset.
+![image](https://user-images.githubusercontent.com/53010854/231210517-a35f187e-99f1-4d20-ab6c-81795a0e67f5.png)
+
+In the context of the Helix project, we utilize this innovative data storage technique to encode the memories of your ancestors within your genetic material. Our team of experts at Apex Technologies has developed a proprietary method to decipher the binary-encoded data stored within the DNA sequences. This enables us to reconstruct the memories and experiences of your ancestors, which can then be accessed and experienced through the Aquila app and our virtual reality headset.
+
+![image](https://user-images.githubusercontent.com/53010854/231211115-0d6b7679-be6b-48ad-ac4b-928e414899d4.png)
+
 
 By harnessing the power of DNA data storage, Hélix not only offers an unprecedented window into our past but also demonstrates the limitless potential of DNA as a medium for preserving and transmitting information. As we continue to develop and refine this groundbreaking technology, we can only imagine the possibilities it will unlock for future generations.
+
+![image](https://user-images.githubusercontent.com/53010854/231211059-f9a194a2-58e9-4485-8031-5867b1e6b9db.png)
+![image](https://user-images.githubusercontent.com/53010854/231211234-b3b7fb8e-e2ce-4dbe-a8ac-b792cc1cb704.png)
