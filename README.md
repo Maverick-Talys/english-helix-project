@@ -61,29 +61,51 @@ limited to being local. It has to have the capacity to grow.
 
 *Welcome to Helix, where the past is our playground.*
 
-## Helix Project Marketing Speech & project Summary : 
+## Helix Project Marketing Speech & project Summary 
+
+### The tenet of DNA storage : 
 
 Imagine for a moment that you could travel back in time, meet your ancestors, and experience their memories. 
 Imagine that all the stories your learn at history school books, watched at cinemas, or listened by your great grandparents, can be relived.
 
+![image](https://user-images.githubusercontent.com/53010854/231216492-03bfaf46-18f1-4b01-8edf-dd880d746dbb.png)
+
+
 What if I told you that this is not a distant fantasy, but a reality within your grasp? 
 Today, our team is proud to present to you : Helix.
 A groundbreaking product from Apex Technologies, that will revolutionize the way we connect with our past.
+
+![image](https://user-images.githubusercontent.com/53010854/231216990-e84ed040-891d-464e-ae23-61a29120d47e.png)
+
 
 Picture this: you're sitting comfortably in your living room, wearing a state-of-the-art virtual reality headset. You launch the Helix app, and suddenly, you're transported to a different time and place. You see the world through the eyes of your great-grandfather, as he takes his first steps in a new land. You feel the love between your great-grandparents as they share their first dance. 
 Or you relive the memories of a soldier telling stories with his comrades, over hot coffee in cold trenches on a moonlit winters night, during the First World War.
 
 These are not just stories, but real experiences that have been passed down through generations, encoded in your very DNA.
 
+![image](https://user-images.githubusercontent.com/53010854/231217290-e4e25e79-a76a-4892-958f-83454580461e.png)
+
+
 So, how does this incredible journey begin? It starts with our simple yet comprehensive DNA analysis kit, which includes a saliva collection pipette, a carbon paper for fingerprinting, and a blood sample syringe. You send these samples to our cutting-edge Apex Technologies laboratories, where our team of expert scientists unlock the memories hidden within your genetic code.
 
+![image](https://user-images.githubusercontent.com/53010854/231217445-11f34362-7da4-48de-b766-0f6d33f825c1.png)
+
 After a mere four months, your ancestors' memories are carefully synchronized by their DNA sequences, and sent to your Helix app account. With your favorite virtual reality headset, you can explore these memories, living the experiences of those who came before you. And as an added bonus, our advanced technology allows us to create the most accurate and detailed family tree you've ever seen.
+
+![image](https://user-images.githubusercontent.com/53010854/231217887-4e4929be-1952-4be0-9ad6-ac862ca9bcce.png)
+
 
 Helix is more than just an app or a product; it's a portal to a world that we have only dreamed of exploring. It connects us with our roots and enriches our understanding of ourselves and our history. Together, let's embark on this remarkable journey through time, and bring the past to life in a way never before possible.
 
 We are confident that Helix, brought to you by Apex Technologies, will captivate your hearts and minds, as we unlock the secrets of our ancestors, one memory at a time.
 
+![image](https://user-images.githubusercontent.com/53010854/231218274-2c0875c1-e504-47a7-9117-3006e666dc9c.png)
+
+We are confident that Helix, brought to you by Apex Technologies, will captivate your hearts and minds, as we unlock the secrets of our ancestors, one memory at a time.
+
 ## Helix project technology behind the scenes : 
+
+### DNA Storage
 
 DNA, or deoxyribonucleic acid, is the blueprint of life, containing all the genetic information required for the growth, development, and reproduction of an organism. It consists of long chains of nucleotides, which are the building blocks of DNA, and can be represented by four letters: A, T, C, and G. These letters stand for the four nucleotide bases: adenine, thymine, cytosine, and guanine. DNA's double helix structure is formed by pairs of these bases connecting together, with A always pairing with T, and C with G.
 
