@@ -61,7 +61,7 @@ limited to being local. It has to have the capacity to grow.
 
 *Welcome to Helix, where the past is our playground.*
 
-## Helix Project Summary : 
+## Helix Project Marketing Speech & project Summary : 
 
 Imagine for a moment that you could travel back in time, meet your ancestors, and experience their memories. 
 Imagine that all the stories your learn at history school books, watched at cinemas, or listened by your great grandparents, can be relived.
