@@ -190,3 +190,30 @@ Year | Users | Total First-Year Revenue per User | Total Revenue | Margin | Prof
  9   | 50,000| €590                             | €29,500,000   |  76%   | €22,380,000
 10   | 55,000| €590                             | €32,450,000   |  77%   | €24,986,500
 
+## Roadmap : 
+
+- Phase One: The First Ten Years
+
+During the initial phase of the Hélix project, users will have the opportunity to explore the memories of their ancestors up to 300 years in the past, reaching as far back as the year 1700. This ten-year period will focus on refining the technology, expanding the user base, and optimizing the costs associated with genetic memory analysis. As demonstrated in the previous revenue projections, this first phase has the potential to deliver significant returns on investment and establish a solid foundation for the future of Apex Technologies.
+
+- Phase Two: Expanding the Temporal Reach
+
+After the successful completion of the first phase, Apex Technologies will embark on an ambitious expansion of the Hélix project, extending the range of genetic memories to the year 1200, covering an additional 500 years of ancestral history. This extension will open up new possibilities for users to delve deeper into their family lineage, uncovering rich stories and experiences that span a millennium.
+
+To achieve this remarkable expansion, Apex Technologies will leverage the advancements in technology, research, and the vast database of genetic information accumulated during the first phase. The company will invest in cutting-edge research and development, pushing the boundaries of genetic memory analysis and decoding techniques.
+
+The second phase of the Hélix project will not only broaden the user experience but also create new opportunities for revenue growth. As users become increasingly engaged with the platform, they are likely to invest more time and resources in uncovering the hidden treasures of their ancestral past. This increased engagement will lead to higher subscription rates, driving additional revenue for Apex Technologies and creating an even more attractive investment opportunity.
+
+- Phase Three: Deeper into the Past (Years 15-20)
+
+Five years after the successful launch of Phase Two, Apex Technologies will take users even further back in time, offering access to genetic memories from the years 400 to 1200. This ambitious expansion presents unique challenges, as accessing memories from this more distant past requires a "deep" research approach that is currently labor-intensive and energy-consuming.
+
+However, Apex Technologies is confident that as the database of genetic memories expands and research progresses, it will become more efficient and affordable to explore these earlier time periods. In the meantime, to cover the higher costs associated with deep research, it is possible that the subscription price for this period will be increased.
+
+- Phase Four: The Premium Experience (Years 20+)
+
+In 20 years, Apex Technologies plans to launch an exclusive premium subscription service, giving users access to genetic memories spanning from 400 BC to 400 AD. This period encompasses fascinating historical events and figures, such as ancient Greek heroes and the Roman Empire.
+
+Given the complexity of extracting and analyzing genetic memories from this era, the premium subscription will come at a significantly higher cost. This service will be tailored to a more affluent clientele who are eager to uncover their connections to legendary figures and immerse themselves in the rich history of their ancestors.
+
+In summary, the Hélix project is designed to evolve and expand over time, providing users with ever-deeper insights into their ancestral memories. By continuously pushing the boundaries of genetic memory research and offering a range of subscription tiers, Apex Technologies will cater to diverse interests and budgets, driving long-term revenue growth and solidifying its position as a pioneer in the field of genetic memory exploration.
